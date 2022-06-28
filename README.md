@@ -96,7 +96,7 @@ Currently working for an opportunity to apply and grow my experiences while prov
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </a>
 <a href = "https://www.fullstackpython.com/flask.html" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /> 
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/55959062/176214911-0c0b32b5-9b04-4b2c-a011-324102e5f6f1.jpeg" alt="Flask" height="50" /> 
 </a>
 <a href = "https://www.tensorflow.org/" target="_blank"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
