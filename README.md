@@ -3,7 +3,7 @@
 
 I'm Al-khattab yaseen a software developer with a master's degree in electrical and electronics engineering, specialized in computer vision and machine learning.
 
-I enjoy anything related to AI, robotics and IOT and love doing projects or solving problems that uses those technologies.
+I enjoy anything related to computer vision, AI, robotics and IOT and love doing projects or solving problems that uses those technologies.
 
 Currently working for an opportunity to apply and grow my experiences while providing a high-quality solution to a real-world problem.
 #
