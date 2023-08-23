@@ -5,7 +5,7 @@ I'm Al-khattab yaseen a software developer with a master's degree in electrical 
 
 I enjoy anything related to computer vision, AI, robotics and IOT and love doing projects or solving problems that uses those technologies.
 
-Currently looking for an opportunity to apply my skill set and grow my experiences while providing a performance oriented solutions to a real-world problems.
+Currently looking for an opportunity to apply my skill set and grow my experiences while providing a performance oriented solutions to  real-world problems.
 #
 
 ## Languages  
