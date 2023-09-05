@@ -1,3 +1,5 @@
+<div style="background-image: url('![image](https://github.com/Al-khattab/Al-khattab/assets/55959062/9ae7946d-5ca3-4f1c-b7ca-fa1e7f378819)
+'); background-size: cover; background-position: center; height: 500px;">
 # Hello there!
   
 
@@ -121,6 +123,8 @@ Currently looking for an opportunity to apply my skill set and grow my experienc
 <a href="mailto: alkhattab.a.d.yaseen@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>
+
+</div>
 
 
 
