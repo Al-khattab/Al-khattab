@@ -1,5 +1,5 @@
-<div style="background-image: url('![image](https://github.com/Al-khattab/Al-khattab/assets/55959062/9ae7946d-5ca3-4f1c-b7ca-fa1e7f378819)
-'); background-size: cover; background-position: center; height: 500px;">
+<div style="background-image: url(![image](https://github.com/Al-khattab/Al-khattab/assets/55959062/9ae7946d-5ca3-4f1c-b7ca-fa1e7f378819)
+); background-size: cover; background-position: center; height: 500px;">
 # Hello there!
   
 
