@@ -27,7 +27,8 @@ jobs:
           # Options
           user: Al-khattab
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity
+          config_display: columns
           config_timezone: Asia/Dubai
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
