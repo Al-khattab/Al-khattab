@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.token }}
+          token: ${{ secrets.TOKEN }}
           # Options
           user: Al-khattab
           template: classic
