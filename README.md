@@ -1,7 +1,5 @@
 ![github-banner](https://github.com/Al-khattab/Al-khattab/assets/55959062/51eca6f2-15e0-483b-b733-3e996d7b1123)
 ![Metrics](/github-metrics.svg)
-
-
 #
 ### Contact me  
 
