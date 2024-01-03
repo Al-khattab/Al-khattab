@@ -19,7 +19,6 @@ jobs:
           # Options
           base: activity
           base_indepth: yes
-          config_display: large
           config_timezone: Asia/Dubai
           plugin_lines: yes
           plugin_lines_history_limit: 2
@@ -49,7 +48,6 @@ jobs:
           # Options
           base: ""
           base_indepth: yes
-          config_display: large
           config_timezone: Asia/Dubai
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
