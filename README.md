@@ -20,4 +20,4 @@ Software and AI engineer. I build computer vision systems, automation tools with
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/alkhattab-yaseen) · [Email](mailto:alkhattab.a.d.yaseen@gmail.com)
+[Email](mailto:alkhattab.a.d.yaseen@gmail.com)
