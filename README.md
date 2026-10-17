@@ -1,22 +1,23 @@
-![github-banner](https://github.com/Al-khattab/Al-khattab/assets/55959062/51eca6f2-15e0-483b-b733-3e996d7b1123)
+# Hi, I'm Al-Khattab
 
-<div align="left" width 600>
-  
-  ### Contact me  
-  
-<a href="https://linkedin.com/in/al-khatab-yaseen" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto: alkhattab.a.d.yaseen@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
-</a>
-</div>
+Software and AI engineer. I build computer vision systems, automation tools with LLMs, and robotics software, plus the full-stack code around them.
 
-<img src="/languages.svg"  alt="Language">
- <img src="/grid.svg"  alt="Grid">
+## Tech
 
+**Languages:** Python, C#, JavaScript, C
+**ML:** PyTorch, OpenCV, Ollama
+**Robotics:** ROS 1/2, Gazebo
+**Hardware:** Jetson, STM32, ESP32, Raspberry Pi, Arduino
+**Web:** React, Node.js, .NET, SQL Server, SQLite
+**Tools:** Git, Linux, Postman
 
+## Things I've built
 
+- **AbilityCam:** offline facial-expression-to-IoT system for people with disabilities, in production since 2023
+- **JCA:** fine-tuned offline LLM that understands Arabic dialects, built for a government ministry
+- **KUH Hexapod:** control software and kinematics for a 4.3-ton walking robot, presented at IROS 2024
+- **Caretaa AUV:** vision and sensor-fusion stack for an autonomous underwater vehicle
 
+## Contact
 
-
+[LinkedIn](https://linkedin.com/in/alkhattab-yaseen) · [Email](mailto:alkhattab.a.d.yaseen@gmail.com)
